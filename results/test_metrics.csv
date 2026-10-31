@@ -1,0 +1,5 @@
+State (Activity),Number of Samples,Sensitivity,Specificity,Overall Accuracy
+Jumping,6,1.0,1.0,1.0
+flat_surface,8,1.0,1.0,1.0
+standing,8,1.0,1.0,1.0
+walking,8,1.0,1.0,1.0
