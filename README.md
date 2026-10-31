@@ -16,6 +16,7 @@ data/        original Sensor Logger zip files (one folder for each activity)
 data_csv/    clean 50 Hz CSV files + sampling_rates.csv (made by the notebook)
 notebook/    hmm_activity_recognition.ipynb
 results/     figures and tables
+videos/      evidence videos
 ```
 
 ## Data
